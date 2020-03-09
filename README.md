@@ -26,7 +26,7 @@ pip install requests
 ```
 Used to send HTML5 requests. Documentation can be found here [here](https://requests.readthedocs.io/en/master/)
 
-There are other packages used such as the datetime package, but these packages come pre-installed with python3.
+There are other packages used such as the tkinter package, but these packages come pre-installed with python3.
 
 ## Run
 To run the program, make sure you are in the directory with both python files and type in this command in your terminal (or cmd if on windows):
