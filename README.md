@@ -4,7 +4,7 @@ Price tracker for the eCommerce website [SSENSE](https://www.ssense.com/en-kr).
 ## Motivation
 This project was created to practice web scrapping using python and the web scrapping module beautifulsoup4. Tkinter was used to further practice using GUI libraries.
 
-## Install
+## Installation
 There are certain packages you need to install before running this project.
 
 1. Beautifulsoup4 (this package is used for web scrapping)
