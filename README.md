@@ -1,4 +1,4 @@
-# SSENSE-Price-Tracker
+# SSENSE Price Tracker
 Price tracker for the eCommerce website [SSENSE](https://www.ssense.com/en-kr).
 
 ## Motivation
